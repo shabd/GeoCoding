@@ -7,3 +7,5 @@ Werkzeug==1.0.1
 geopy
 flask-sqlalchemy
 Flask-Migrate
+pytest_mock
+pytest
